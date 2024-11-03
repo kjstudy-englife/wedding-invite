@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "markuplint:recommended-react" // recommended ＋ React用の追加ルール
+  ]
+}
